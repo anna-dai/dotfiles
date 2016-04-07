@@ -1,0 +1,7 @@
+[user]
+	email = annadai@umiche.du
+	name = Anna Dai
+[core]
+	editor = vim
+[push]
+	default = matching
